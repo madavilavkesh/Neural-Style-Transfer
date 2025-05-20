@@ -38,8 +38,8 @@ Try the app here (Fast Style Transfer):
 
 | Gradio UI | Style Transfer Demo |
 |-----------|---------------------|
-| ![UI](screenshots/Screenshot_App_UI.png) | ![Demo1](screenshots/Screenshot_Demo_1.png) |
-|  | ![Demo2](screenshots/Screenshot_Demo_2.png) |
+| ![UI](Screenshot_App_UI.png) | ![Demo1](Screenshot_Demo_1.png) |
+|  | ![Demo2](Screenshot_Demo_2.png) |
 
 ---
 
