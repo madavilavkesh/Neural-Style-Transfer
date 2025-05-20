@@ -62,10 +62,3 @@ Blend two images — a **content image** and a **style image** — to generate a
 
 ---
 
-## ⚙️ How to Run
-
-### 🔧 Requirements
-
-```bash
-pip install -r requirements.txt
-
